@@ -10,3 +10,8 @@ https://github.com/paulosalvatore/Ocean_DeepLearning_13_08_2021/blob/main/Ocean_
 
 # Conteúdo sobre deep learning
 https://www.deeplearningbook.com.br
+
+# Métrica de camadas e neurônios (função de ativação)
+https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+
+
